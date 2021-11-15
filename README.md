@@ -10,7 +10,7 @@ decrypt the text.
 
 # Prerequisite
 
-Pycryptodome should be installed
+-> Pycryptodome
 
 # Note
 
