@@ -19,4 +19,4 @@ decryption_code.py is stored.
 
 # Compatibility
 
-Tested on both windows and linux.
+Works on both windows and linux.
