@@ -20,7 +20,3 @@ decrypt the text.
 
 Run encryption_code.py first.For decryption_code.py to work,the user must have ciphertext_1.txt and ciphertext_2.dat stored in the same location,where 
 decryption_code.py is stored.
-
-# Compatibility
-
-Works on both windows and linux.
